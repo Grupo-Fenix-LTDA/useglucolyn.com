@@ -87,7 +87,7 @@ html.w-mod-touch * {
 .w-button {
   display: inline-block;
   padding: 9px 15px;
-  background-color: #5d1a4d;
+  background-color: #3898EC;
   color: white;
   border: 0;
   line-height: inherit;
@@ -339,7 +339,7 @@ label {
 }
 .w-input:focus,
 .w-select:focus {
-  border-color: #5d1a4d;
+  border-color: #3898EC;
   outline: 0;
 }
 .w-input[disabled],
@@ -1113,7 +1113,7 @@ textarea.w-select {
   color: #222222;
 }
 .w-dropdown-link.w--current {
-  color: #c1272d;
+  color: #0082f3;
 }
 .w-dropdown-link:focus {
   outline: 0;
@@ -1458,11 +1458,11 @@ textarea.w-select {
 }
 .w-richtext .w-richtext-figure-selected.w-richtext-figure-type-video div:after,
 .w-richtext .w-richtext-figure-selected[data-rt-type="video"] div:after {
-  outline: 2px solid #e84a64;
+  outline: 2px solid #2895f7;
 }
 .w-richtext .w-richtext-figure-selected.w-richtext-figure-type-image div,
 .w-richtext .w-richtext-figure-selected[data-rt-type="image"] div {
-  outline: 2px solid #e84a64;
+  outline: 2px solid #2895f7;
 }
 .w-richtext figure.w-richtext-figure-type-video > div:after,
 .w-richtext figure[data-rt-type="video"] > div:after {
@@ -1598,7 +1598,7 @@ textarea.w-select {
   margin-right: auto;
 }
 .w-nav-link.w--current {
-  color: #c1272d;
+  color: #0082f3;
 }
 .w-nav-menu {
   position: relative;

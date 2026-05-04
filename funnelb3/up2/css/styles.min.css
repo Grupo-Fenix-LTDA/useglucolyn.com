@@ -8809,8 +8809,8 @@ a.has-text-danger-dark:hover {
   margin-left: 1rem !important;
 }
 .mx-4 {
-  margin-left: 1rem !important;
-  margin-right: 1rem !important;
+  display: flex;
+  justify-content: center;
 }
 .my-4 {
   margin-top: 1rem !important;
@@ -11143,7 +11143,7 @@ strong {
   line-height: 1.01;
 }
 .blue-color {
-  color: #1f5c2d;
+  color: #004f55;
 }
 .spacing-fix {
   letter-spacing: -0.0625rem;
@@ -11905,7 +11905,7 @@ body {
 }
 .yellow-button-cta3 {
   background: #fffd00;
-  border: 1vw solid #1c8da7;
+  border: 1vw solid #D94A3D !important;
   color: #00f;
   padding: 2vw;
   text-align: center;
@@ -11917,7 +11917,7 @@ body {
 .yellow-button-cta3:hover {
   background-color: #fff;
   color: #00f;
-  border: 1vw solid #1c8da7;
+  border: 1vw solid #D94A3D !important;
 }
 .advancedOptions {
   width: 95%;
@@ -12086,7 +12086,7 @@ body {
   }
   .yellow-button-cta3 {
     background: #fffd00;
-    border: 6px solid #1c8da7;
+    border: 6px solid #D94A3D !important;
     padding: 10px 20px;
     text-align: center;
     font-size: 28px;
@@ -12094,7 +12094,7 @@ body {
   }
   .yellow-button-cta3:active,
   .yellow-button-cta3:hover {
-    border: 6px solid #1c8da7;
+    border: 6px solid #D94A3D !important;
     background-color: #fff;
   }
   .block-customer {
@@ -12895,7 +12895,7 @@ div.Tech__wrapper * {
   color: #9cd0dd;
 }
 .green-solid-background {
-  background: #1f5c2d !important;
+  background: #032737;
   
 }
 .navbar.is-link .navbar-burger {
@@ -12928,7 +12928,7 @@ div.Tech__wrapper * {
   }
 }
 .popular-box {
-  background: #1f5c2d !important;
+  background: #D94A3D !important;
   color: #fff;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
@@ -13008,16 +13008,16 @@ div.Tech__wrapper * {
   border: 3px solid #b7b7b7;
 }
 .priceb {
-  color: #317483;
+  color: #626f72 !important;
 }
 .box-6-bottle {
-  border: 3px solid #00a3b6;
+  border: 3px solid #D94A3D !important;
 }
 .pricec {
-  color: #1c8da7;
+  color: #D94A3D !important;
 }
 .GPOP2 {
-  background: #1f5c2d;
+  background: #626f72 !important;
 }
 .box-3-bottle {
   border: 3px solid #b7b7b7;
@@ -13053,10 +13053,10 @@ a:hover {
   display: flex;
 }
 .tabs.is-boxed li.is-active a {
-  border-color: #1c8da7;
+  border-color: #D94A3D !important;
 }
 .tabs ul {
-  border-bottom-color: #1c8da7;
+  border-bottom-color: #D94A3D !important;
   border-bottom-width: 3px;
 }
 .tabs a {
